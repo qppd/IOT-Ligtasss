@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iotligtas-default-rtdb",
+  "private_key_id": "3e8be0f52b65c6edb91aacce9c9c20abb52699c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDyOzO0nOEjUWtL\nfFQYCxODy+S6F/NQgAYQCzOpGPOSBGOLwhJk7QNwOMturET+dnRMSMsNrU315j0/\nilsYz3XEC/HyCs8JBDTMQc2SkwNnrZR1kpaTvUXvE7f+fwXmvgssYb6RgtYg934q\nXU0kbT3IjlRSvFAO8TibytiWdtEEzSLqfWJGQZ+S91GpGco+NYoXSef1SjG1D1hv\nYRBxHZlr4GKpw7226mwmUziBTHjSocLmLCd/1//Eyl8hfv2evr4dG5LoAy31/U4H\nmeYfQVrHrTcVlSgr2VOaHeKP+7UVtvGdEQWG/tWyA6eb/29GZo8NwXO5lJjf2XHP\nFa79fImtAgMBAAECggEABwmRRv4HzG7hHyBNkSVBO+MAkid/+ia+BllM9uyypttZ\nyQWqYyQ/pVMBFgYLOxlV56F1xL/0M+CshtwOKXpdgYSXUuDdgvWMUyLWRhvfTXPN\njFzl4wTsszVvcwVdtoZu7KsqTi/u6KZIFBMB2r0RvnHkIUM3UDfR3TTXdgedqvX8\nRX6BeHgU3q6i4j7kSgkXKcCGk42K5zncrYPRUjTUG54eOLHqh77PQPcgol4Gy1xJ\nev1bVC/9y9CIrqvcdGywXvBIDtQE/II5OY0ivJqHHriNTtOafnNkt29/zv6ncWTt\n94/+bAVsGP2pSTM+a1F4GvJ2wim7kawvVnuE9tt2AQKBgQD5/rrQ6JsEo5XrPTxq\nECOZTKGlTGCXinTBqSSIBJIAgMUE9LX3P4k5nlKBhDB8CVw7TriAK1wMghzgaBpD\niec0Pww7umBN6MnSRP/AHXZFzsMoOWFyzKFkTVjjqezQLP+BfRaK8LeZkvSrELt/\nzLme2LyrgQO2ZNal0e0Zt0Pd5QKBgQD4DLsteFU3EVRIL2QGxylxfC2YKW8wHQ47\nbffZXKjdst/1h9vc1MeETzZH/3DOWP3jHg/YmfQndGGYpWvWAmcHOnn2fcKhmBBK\n2WkrJruFvt/V73DXhBLv/sHe1Q4HUp21b9lnwvAXw2S7FWmiOScZkBoQveDJSH1I\nZ0MCq0YAKQKBgQDZim18fvzuU3+Q3Y+l5/diXgnHsqfXFte08f/lEL0QDP3k6yEx\nTyuVZQz8wVADj42f2ke42IJYLBz+tfgsz2LO1xJJI0zMXwbIn9xBjCGwa1Ttusju\nwdyrUJdKPULigFWyk2w7aW8LB5M7DOtsMXVRId9ECpd1b1hNoViGaTB4dQKBgAeU\nxAfAvMIBGpVWNXVrkt2wEOiso4RR7wRr+P5AsbyM4gFsFJEsQ6jMjvkmWnlECQZu\n/cb99ZNbIDx9Gc2hpyp2ZBHfiBpOPnk7KdayyVpuGgM83TMJC1cgbyZzVolswfsw\nnvFn6NShGSwKnH7jxkkmuVU3qG4edA3Jcifbujj5AoGBAL38MkO9+DqBq6ZH8+to\nRUhmYaA58rdHdqUCh795uFXeOYK37Yi8mluGRIukAl0EKwi/K8JGdHDaJbmAdbTl\nOn/0qBdBvgjNzammxzycvvATOA3jZSRAlAWrEjNKY/RwhGw8EfdVXUX6qiHgHMlQ\nPR1g9FSnZO5ohm+j2gjaRdQE\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zehsa@iotligtas.iam.gserviceaccount.com",
+  "client_id": "104806311904378521457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zehsa%40iotligtas.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
